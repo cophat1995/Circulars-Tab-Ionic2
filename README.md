@@ -1,3 +1,4 @@
+https://github.com/SinoThomas/Ionic2-CircularTabs/blob/master/README.md
 Ionic2-CircularTabs
 # Circulars-Tab-Ionic2
 
